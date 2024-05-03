@@ -1,7 +1,3 @@
 Hello, this is James Bond
 You can call me Bond
-<<<<<<< Updated upstream
-Pleased to met you.
-=======
 I like my marinies shaken not stirred.
->>>>>>> Stashed changes
